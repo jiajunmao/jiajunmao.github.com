@@ -1,10 +1,12 @@
 # main links
 main:
-   - title: "About"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "Sample Posts"
-     url: /year-archive/
-   - title: "Sample Collections"
-     url: /collection-archive/
-   - title: "Sitemap"
-     url: /sitemap/
+   - title: "Lecture Notes"
+     url: /lecture/
+   - title: "Research"
+     url: /research/
+   - title: "Tutorials"
+     url: /tutorials/
+   - title: "Resume"
+     url: https://github.com/Kent-AI-Laboratory/member-resume/blob/master/Jiajun_Mao%20Resume.pdf
+   - title: "Kent AI Lab"
+     url: https://www.kentailab.org
