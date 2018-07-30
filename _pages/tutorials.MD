@@ -3,8 +3,8 @@ layout: archive
 header:
   image: "/images/code.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-title: "Lecture Notes"
-permalink: /lecture/
+title: "Tutorials"
+permalink: /tutorials/
 author_profile: true
 ---
 
