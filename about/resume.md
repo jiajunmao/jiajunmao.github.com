@@ -6,4 +6,4 @@ date: 2016-03-21
 comments: false
 ---
 
-{% include pdf.html path_pdf="asset.resume.pdf" %}
+{% include pdf.html %}

@@ -1,12 +1,22 @@
 ---
 layout: post
-title: "Mental Illness II"
+title: "Mental Illness"
 date: 2018-07-26
 tags: [psychology, 85102, mental illness]
 comments: true
 ---
 
+
+
+
+
 # Perspective on Mental Illness
+- psychological disorder - condition in which behavior is judged as:
+    - Atypical
+    - Disturbing
+    - Maladaptive
+    - Unjustifiable
+
 - Medical model -assumes psychological disorders are mental illness that need to be diagnosed on the basis of their symptoms and cured through therapy
 - Origins may be:
     - Somatogenic - caused by bodily disfunction (injury or infection)

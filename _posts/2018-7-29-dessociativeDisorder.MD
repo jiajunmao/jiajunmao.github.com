@@ -6,7 +6,7 @@ tags: [psychology, 85102, mental illness]
 comments: true
 ---
 
-# Dissociative Disorders
+# Dissociative Disorder
 Dissociative disorders involve extreme responses to horrific events
 
 ## Dissociative amnesia

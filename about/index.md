@@ -31,4 +31,4 @@ comments: false
     * TGS salt detection
     * TrackML particle analysis
 
-{% include button.html site_path="asset/resume.pdf" button_name="My Resume" button_class="primary" %}
+{% include button.html site_path="/pdfs/resume.pdf" button_name="My Resume" button_class="primary" %}

@@ -6,7 +6,6 @@ tags: [psychology, 85102, language]
 comments: true
 ---
 
-# Language
 - Express thought
 - Conveys information
 - Expresses and solidifies social and cultural bonding
