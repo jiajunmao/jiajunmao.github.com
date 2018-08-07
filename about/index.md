@@ -30,3 +30,5 @@ comments: false
     * Airbus ship detection
     * TGS salt detection
     * TrackML particle analysis
+
+{% include button.html site_path="asset/resume.pdf" button_name="My Resume" button_class="primary" %}
