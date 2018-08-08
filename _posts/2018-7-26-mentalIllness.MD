@@ -6,10 +6,6 @@ tags: [psychology, 85102, mental illness]
 comments: true
 ---
 
-
-
-
-
 # Perspective on Mental Illness
 - psychological disorder - condition in which behavior is judged as:
     - Atypical
