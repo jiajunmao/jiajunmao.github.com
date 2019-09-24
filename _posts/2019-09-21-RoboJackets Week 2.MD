@@ -9,10 +9,10 @@ comments: false
 # 2-01 Header Files and Includes
 - Use angled brackets <...> for header files that come with the compiler
 - Use double quotes for user defined header files
-    ```c
-    #include <iostream>
-    #include "data.h"
-    ```
+```c
+#include <iostream>
+#include "data.h"
+```
 
 ## Header File
 - Give header file the same name as their files
@@ -25,12 +25,12 @@ comments: false
 
 ### Header guards
 Prevent compile errors for duplicate definitions (pragma once)
-    ```c
-    //some_file.h
-    #pragma once
+```c
+//some_file.h
+#pragma once
 
-    //your code here
-    ```
+//your code here
+```
 
 
 # 2-02 Declaration
@@ -49,77 +49,77 @@ Initialization
 
 
 # 2-03 Scope and Namespace
-    ```c
-    namespace name_of_namespace{
+```c
+namespace name_of_namespace{
 
-    }
+}
 
-    int main(){
-        std::cout << name_of_namespace.something << std::endl;
-    }
-    ```
+int main(){
+    std::cout << name_of_namespace.something << std::endl;
+}
+```
 
 Name space can be nested
-    ```c
-    namespace my_namespace{
-        namespace space2{
-            
-        }
+```c
+namespace my_namespace{
+    namespace space2{
+        
     }
+}
 
-    int main(){
-        std::cout << my_namespace::space2::something << std::endl;
-    }
-    ```
+int main(){
+    std::cout << my_namespace::space2::something << std::endl;
+}
+```
 
 
 # 2-05 C++ Encapsulation
-    ```c
-    class Example{
-        public:
-            Example()
-                : example_data_1(4),  //Member initialization list
-                  example_data_2(5.6);
-            Example(int data_1)
-                : example_data_1(data_1)
-                  example_data_2(data1 + 1.6)
-            {
+```c
+class Example{
+    public:
+        Example()
+            : example_data_1(4),  //Member initialization list
+                example_data_2(5.6);
+        Example(int data_1)
+            : example_data_1(data_1)
+                example_data_2(data1 + 1.6)
+        {
 
-            }
-            
+        }
+        
 
-            int example_data_1;
-            double example_data2;
-    };
+        int example_data_1;
+        double example_data2;
+};
 
-    int main(){
-        Example e1;   //Constructor will be called IFF there is a default constructor
-        Example e2 = Example(2);
-        Example e3 = Example();
-    }
-    ```
+int main(){
+    Example e1;   //Constructor will be called IFF there is a default constructor
+    Example e2 = Example(2);
+    Example e3 = Example();
+}
+```
 
 Destructor
 - called the object is destroyed
 - Clean up anything the object was using
 
-    ```c
-    class Example{
-        public:
-            ~Example(){   //Destructor
+```c
+class Example{
+    public:
+        ~Example(){   //Destructor
 
-            }
-    }
-    ```
+        }
+}
+```
 
 
 # 2-06 Undefined Behavior
-    ```c
-    int main(){
-        int x;
-        std::cout << x << std::endl; //x is not intialized
-    }
-    ```
+```c
+int main(){
+    int x;
+    std::cout << x << std::endl; //x is not intialized
+}
+```
 
 Undefined Behavior
 - Crash your program
