@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-10-3
+date: 2019-10-03
 title: RoboJackets Software Training Week 3
 tags: [RoboJackets, Software]
 comments: false
