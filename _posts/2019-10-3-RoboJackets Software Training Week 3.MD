@@ -27,6 +27,7 @@ var_name.push_back(element);  //put the element at the start of the array
 ```
 
 # 3-02 Maps
+
 ```c
 std::map<std::string, int> number_representations;  //declare a map
 number_representation = {{std::string, int}, {..., ...}};  //initialize the map
@@ -41,6 +42,7 @@ number_representation.count("something");  //Count the occurance of "something" 
 ```
 
 # 3-04 STL Iterators
+
 ```c
 std::vector<int> my_vector = {1,2,3,4,5};
 for(auto it=my_vector.begin(); it!=vector.end(); it++){
