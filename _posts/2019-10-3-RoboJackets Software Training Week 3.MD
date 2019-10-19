@@ -20,9 +20,7 @@ my_init_array.size();  //will return the length of the array
 ## Vectors
 ```c
 std::vector<datatype> var_name; //does not have fixed size
-```
 
-```c
 var_name.push_back(element);  //put the element at the start of the array
 ```
 
