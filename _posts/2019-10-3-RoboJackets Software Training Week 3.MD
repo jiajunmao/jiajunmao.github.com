@@ -7,6 +7,7 @@ comments: false
 ---
 
 # 3-01 Basic Containers and Arrays
+
 ```c
 std::array<int, 5> my_init_array; //an array of length 5, data type of int
 my_init_array = {};  //initialize an empty array
@@ -18,6 +19,7 @@ my_init_array.size();  //will return the length of the array
 ```
 
 ## Vectors
+
 ```c
 std::vector<datatype> var_name; //does not have fixed size
 
