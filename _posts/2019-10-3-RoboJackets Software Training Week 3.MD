@@ -13,6 +13,7 @@ std::array<int, 5> my_init_array; //an array of length 5, data type of int
 my_init_array = {};  //initialize an empty array
 ```
 cannot use variable as the length during declaration
+
 ```c
 my_init_array.at(8);  //will throw an exception but will not crash the program
 my_init_array.size();  //will return the length of the array
