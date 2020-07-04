@@ -8,11 +8,11 @@ assignees: ''
 ---
 
 **Select a problem**
-- [ ] Game imbalance
-- [ ] Map/World related problems
-- [ ] Staff abuse
-- [ ] Lag/TPS related problems
-- [ ] Other
+- [] Game imbalance
+- [] Map/World related problems
+- [] Staff abuse
+- [] Lag/TPS related problems
+- [] Other
 
 **Describe problem in detail**
 
@@ -23,9 +23,9 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **OS**
- - [ ] Windows
- - [ ] Mac
- - [ ] Linux
+ - [] Windows
+ - [] Mac
+ - [] Linux
 
 **Additional context**
 Add any other context about the problem here.
