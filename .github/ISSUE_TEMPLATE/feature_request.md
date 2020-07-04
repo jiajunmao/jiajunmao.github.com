@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 **Select the feature you'd like**
-- [ ] New Plugin
-- [ ] New Game Mechanics
-- [ ] New Item/Job
-- [ ] Other
+- [] New Plugin
+- [] New Game Mechanics
+- [] New Item/Job
+- [] Other
 
 **Elaborate on the above selection**
 A clear and concise description of the feature request.
